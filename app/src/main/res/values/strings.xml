@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">StockApp</string>
+    <string name="open_price">開盤價</string>
+    <string name="closing_price">收盤價</string>
+    <string name="highest_price">最高價</string>
+    <string name="lowest_price">最低價</string>
+    <string name="change_price">漲跌價差</string>
+    <string name="monthly_average_price">月平均價</string>
+    <string name="trade_price">成交金額</string>
+    <string name="trade_volume">成交股數</string>
+    <string name="transactions">成交筆數</string>
+    <string name="descending_order">依股票代號降序</string>
+    <string name="ascending_order">依股票代號升序</string>
+    <string name="price_earnings_ratio">本益比</string>
+    <string name="dividend_yield">殖利率(%)</string>
+    <string name="price_to_book_ratio">股價淨值比</string>
+    <string name="error_request_timeout">錯誤：請求超時</string>
+    <string name="error_unauthorized">錯誤：權限已過期</string>
+    <string name="error_conflict">錯誤：請求衝突</string>
+    <string name="error_too_many_requests">錯誤：同時太多請求發送</string>
+    <string name="error_no_internet">錯誤：請連接網路</string>
+    <string name="error_payload_too_large">錯誤：數據過於龐大</string>
+    <string name="error_server_error">錯誤：伺服器發生問題</string>
+    <string name="error_serialization">錯誤：資料解析錯誤</string>
+    <string name="error_unknown">未知錯誤:1001</string>
+    <string name="dialog_ok_button">確定</string>
+    <string name="error_title">錯誤</string>
+    <string name="stock_search_bar_hint">搜尋:2330、台積電</string>
+    <string name="retry">重試</string>
+</resources>
